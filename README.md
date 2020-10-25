@@ -24,10 +24,9 @@ A React-native marketplace made with react-native and Context-api
   </a>
 </p>
 
-
- <img src="https://github.com/robertokbr/GoMarketPlace/blob/master/.Github/Carrinho.png"/>
-  <img src="https://github.com/robertokbr/GoMarketPlace/blob/master/.Github/Listagem.png"/>
-
+<p align="center">
+ <img src="https://github.com/robertokbr/GoMarketPlace/blob/master/.Github/Carrinho.png" width="300px"/> <img src="https://github.com/robertokbr/GoMarketPlace/blob/master/.Github/Listagem.png" width="300px"/>
+</p>
 
 
 # 🚧 In progress
